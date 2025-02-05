@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from "../Images/Logo .svg";
+import logo from "/Images/Logo .svg";
 import { Link } from "react-router-dom";
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
