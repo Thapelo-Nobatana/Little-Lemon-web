@@ -31,11 +31,12 @@ nav ul li {
 
 nav ul li a{
   color: #000;
+  font-size: large;
 }
 
 nav ul li a:hover{
   text-decoration: underline solid #495E57;
-  
+  transform: scale(1.1);
 }
 
 .menu-icon {
@@ -217,7 +218,7 @@ input, label{
   font-size: 16px;
   font-weight: 600;
 }
-
+ /* Footer */
 footer section{
   padding: 10px 13%;
   display: flex;
@@ -252,7 +253,7 @@ footer ul li{
   .menu-icon {
     display: block;
   }
-
+ 
   .nav-links {
     display: none;
   }
@@ -299,7 +300,7 @@ footer ul li{
   .menu-items{
     width: 100%;
   }
-
+    /* Footer */
   footer section{
     padding: 10px 8%;
     flex-direction: column;
