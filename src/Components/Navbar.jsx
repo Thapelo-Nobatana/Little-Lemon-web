@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar ${menuOpen ? "open" : ""}`}>
       <a href="/" className="logo">
-        <img src={logo} alt="logo" />
+        <img src={logo} alt="logo" size={30} />
       </a>
 
       {/* mobile navbar */}

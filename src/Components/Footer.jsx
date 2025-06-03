@@ -36,13 +36,13 @@ const Footer = () => {
           <h3>Contact us</h3>
           <ul>
             <li>
-              Address : <br /> Towncity USA
+              Address : <br /> Pretoria CBD
             </li>
             <li>
-              Phone : <br /> +000000000
+              Phone : <br /> +27 84 514 4582
             </li>
             <li>
-              Email : <br /> abc@gmail.com
+              Email : <br /> nobatanathapelo@gmail.com
             </li>
           </ul>
         </div>
