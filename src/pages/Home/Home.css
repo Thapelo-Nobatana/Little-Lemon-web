@@ -223,6 +223,8 @@ footer section{
   display: flex;
   justify-content: space-between;
   align-items: start;
+  text-decoration: none;
+  color: #000;
 }
 
 .company-info img{
@@ -237,6 +239,7 @@ footer section{
 
 footer h3{
   font-size: 18px;
+  color: #000;
 }
 
 footer ul{
@@ -245,6 +248,10 @@ footer ul{
 
 footer ul li{
   padding: 8px 0;
+}
+
+footer ul li link {
+  color: #000;
 }
 
 

@@ -9,7 +9,7 @@ const Header = () => {
         {/* banner text */}
         <div className="banner">
           <h2>Little Lemon</h2>
-          <h3>Chicago</h3>
+          <h3>Pretoria CBD</h3>
           <p>
             We are a family owned Mediterraneran restuarent, focusd on
             traditional recipes served with modern twist.
